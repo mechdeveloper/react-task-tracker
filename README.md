@@ -68,7 +68,7 @@ export default class Header extends React.Component {
     <Header title="My Title" />
     ```
 
-## Workig with State
+## Working with State
 
 - Components can have "state" which is an object that determines how a component renders and behaves
 - "App" or "global" state refers to state that is available to the entire UI, not just a single component.
