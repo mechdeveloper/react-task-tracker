@@ -31,7 +31,7 @@ Traversy Media
 
 - When using React, think of your UI as a bunch of separate components
 
-![ui-components-task-tracker-app](.\readme-images\ui-components-task-tracker-app.png)
+![ui-components-task-tracker-app](https://github.com/mechdeveloper/react-task-tracker/blob/main/readme-images/ui-components-task-tracker-app.png?raw=true)
 
 ## Components: Functions vs. Classes
 
